@@ -1,0 +1,4 @@
+15,priyanka,10000,F
+16,ramesh,12000,M
+17,manu,13000,M
+18,keerthi,14000,F
